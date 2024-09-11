@@ -23,8 +23,5 @@ Recommending top K papers.
 The deep learning model improved recommendations, yielding an accuracy of 99%.
 Subject Area Prediction
 
-License
-This project is licensed under the NOOR SAEED
-
 Acknowledgments
 Mention any credits or acknowledgments for third-party tools, libraries, or resources used in the project.
